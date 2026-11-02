@@ -205,3 +205,6 @@ ETH: 0xf4eee937937f92038D70B16AbD7736D8a53a1c5c
 BTC: bc1qwpkwp70fn76z3s4kg2l9y3j4kst95twcznuugf
 
 SOL: 8Rih6HY7V4LcdjYHz4iSffT4fTniqw5CACaBigSVxNYu
+## Contributors
+
+Everyone credited so far: [CONTRIBUTORS.md](CONTRIBUTORS.md).
